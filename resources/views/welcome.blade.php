@@ -13,16 +13,7 @@
         <!-- Styles / Scripts -->
        @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        <header class="bg-gray-800 text-white dark:bg-gray-900 dark:text-white">
-            <x-Navigation>
-                <!-- <x-navigation-item href="#" :isActive = "true">Acheter</x-navigation-item>
-                <x-navigation-item href="#">Location</x-navigation-item>
-                <x-navigation-item href="#">Vendre</x-navigation-item>
-                <x-navigation-item href="#"></x-navigation-item> -->
-            </x-Navigation>
-        </header>
-        <main></main>
-        <footer></footer>
+    <body class="font-sans antialiased dark:bg-white dark:text-black/50">
+        
     </body>
 </html>
