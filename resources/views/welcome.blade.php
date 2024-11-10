@@ -47,29 +47,6 @@
     </header>
 
     <!-- Hero Section (Placeholder) -->
-    <section class="h-screen bg-gray-900 text-white flex items-center justify-center">
-        <h1 class="text-4xl">Bienvenue sur IMMO_CI</h1>
-    </section>
-
-    <!-- Hero Section -->
-    <section class="h-screen bg-gray-800 flex items-center justify-center text-white text-4xl">
-        <h1>Bienvenue sur IMMO_CI</h1>
-    </section>
-
-    <!-- Section Produits avec Effet d'ouverture -->
-    <section id="produits" class="h-screen relative overflow-hidden">
-        <!-- Les portes gauche et droite -->
-        <div id="porte-gauche" class="porte absolute top-0 left-0 h-full w-1/2 bg-gray-800 transform origin-right">
-        </div>
-        <div id="porte-droite" class="porte absolute top-0 right-0 h-full w-1/2 bg-gray-800 transform origin-left">
-        </div>
-
-        <!-- Contenu de la section Produits -->
-        <div id="contenu-produits"
-            class="relative h-full flex items-center justify-center text-4xl text-gray-900 opacity-0 transition-opacity duration-500">
-            <h2>Nos produits immobiliers</h2>
-        </div>
-    </section>
 
 
 </body>
